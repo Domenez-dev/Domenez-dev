@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building imp
 ## 🛠️ Tools and Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,py,django,js,ts,react,next,arch,bash,aws,c,docker,azure,git,github,kubernetes,jenkins,mongodb,mysql,postgres, graphql,obsidian,redis" />
+  <img src="https://skillicons.dev/icons?i=go,py,django,js,ts,react,next,php,arch,bash,aws,c,docker,azure,git,github,kubernetes,jenkins,mongodb,mysql,postgres,graphql,obsidian,redis,md" />
 </p>
 
 ## ⚡ Fun Facts
