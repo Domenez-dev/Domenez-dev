@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building imp
 ## ⚡ Fun Facts
 
 - I love solving complex algorithms and participating in coding challenges.
-- In my free time, I enjoy hiking and exploring the outdoors.
+- I leetfcods for fun
+- In my free time, I enjoy camping and exploring the outdoors.
 - I'm an avid reader of tech blogs and always stay updated with the latest in technology
 
 ## 💬 Ask Me About
