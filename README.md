@@ -1,10 +1,12 @@
 # Hello, I'm Domenez-dev! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building impactful projects and continually expanding my skill set.
+I am mainly a backend and operations developer!
 
 ## 🔭 Currently Working On
 
 - **[Real time mssaging app](https://github.com/Domenez-dev/end-to-end-encrypted-real-time-messaging-app):** A full stack app for real time messaging.
+- Wikayanet: A Blog for security updates, articles and news (there will be a preview on the project soon)
 
 ## 🌱 Learning and Exploring
 
