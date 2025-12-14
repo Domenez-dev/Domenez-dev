@@ -22,7 +22,7 @@ I am mainly a backend and operations developer!
 ## 🛠️ Tools and Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,py,django,js,ts,gcp,react,next,express,vite,php,flask,arch,ubuntu,nginx,prometheus,neovim,vim,bash,powershell,anaconda,aws,c,docker,azure,git,github,kubernetes,jenkins,mongodb,mysql,postgres,prisma,graphql,svelte,obsidian,redis,md,fastapi,lua,vercel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=go,py,django,js,ts,gcp,react,next,express,vite,php,flask,arch,ubuntu,nginx,prometheus,neovim,vim,bash,powershell,anaconda,aws,c,docker,azure,git,github,kubernetes,jenkins,mongodb,mysql,postgres,prisma,graphql,svelte,obsidian,redis,md,fastapi,lua,vercel,nodejs,cs,dotnet" />
 </p>
 
 ## ⚡ Fun Facts
