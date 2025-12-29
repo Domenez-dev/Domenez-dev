@@ -1,6 +1,6 @@
 # Hi, I'm Domenez-dev 👋
 
-I am a **Networking and Distributed systems** Student and also a **Backend and Operations Developer** passionate about building scalable infrastructure and efficient systems.
+I am a **Networking and Distributed Systems** student and a **Backend & Operations Developer** passionate about building scalable infrastructure and efficient systems.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,py,docker,kubernetes,aws,gcp,postgres,linux&theme=light" />
