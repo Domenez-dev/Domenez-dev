@@ -6,7 +6,7 @@ I am a **Networking and Distributed systems** Student and also a **Backend and O
   <img src="https://skillicons.dev/icons?i=go,py,docker,kubernetes,aws,gcp,postgres,linux&theme=light" />
 </p>
 
-- **Working on:** High-concurrency messaging systems and security blogs.
+- **Working on:** Deploying Hyper-Converged Cloud Infrastructure (HCI).
 - **Learning:** Advanced DevOps patterns and Cloud Architecture.
 
 ---
